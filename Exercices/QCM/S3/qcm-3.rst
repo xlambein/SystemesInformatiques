@@ -189,14 +189,14 @@ Lors de l'exécution de ce programmes, les valeurs des différentes variables so
 .. class:: positive
 
 -
- - la variable ``i`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
+ - la variable ``k`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
  - l'argument ``i`` déclaré en ``ligne C`` est stocké sur la pile
  - la variable ``j`` déclarée en ``ligne D`` est stockée sur la pile
  - la variable ``k`` déclarée en ``ligne F`` est stockée sur la pile
 
 
 -
- - la variable ``i`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
+ - la variable ``k`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
  - le tableau ``tab`` déclaré en ``ligne B`` est stocké dans la zone des variables non-initialisées
  - l'argument ``i`` déclaré en ``ligne C`` est stocké sur la pile
  - la variable ``i`` déclarée en ``ligne E`` est stockée sur la pile
@@ -229,7 +229,7 @@ Lors de l'exécution de ce programmes, les valeurs des différentes variables so
 
 
 -
- - la variable ``i`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
+ - la variable ``k`` déclarée et initialisée en ``ligne A`` est stockée dans la zone des variable initialisées
  - le tableau ``tab`` déclaré en ``ligne B`` est stocké dans la zone des variables non-initialisées
  - l'argument ``i`` déclaré en ``ligne C`` est stocké sur la pile
  - la variable ``k`` déclarée en ``ligne F`` est stockée sur le tas
